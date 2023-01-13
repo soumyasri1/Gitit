@@ -3,3 +3,8 @@ phone
 touchscreen
 
 glass
+
+pink
+ blue
+ green
+ 
