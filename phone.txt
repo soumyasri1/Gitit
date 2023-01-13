@@ -4,7 +4,3 @@ touchscreen
 
 glass
 
-pink
- blue
- green
- 
